@@ -1,2 +1,24 @@
+table{
+	width:100%;
+	
+}
+thead{
+	text-align:left;
+	background-color:#f7483b;
+}
+table,td,th{
+	border:1px solid;
+	border-collapse: collapse;
+}
 
-/* Your CSS Code here. */
+tr:nth-child(2) {
+  background-color: #f5958e;
+}
+tr:nth-child(3) {
+  background-color: #ebcecc;
+}
+.a{
+	background-color:#f76b60;
+}
+
+
